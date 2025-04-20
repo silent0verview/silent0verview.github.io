@@ -1,4 +1,4 @@
-baseURL = 'https://silent0verview.org'
+baseURL = "https://silent0verview.github.io/"
 languageCode = 'en-us'
 title = 'Silent0verview'
 theme = 'hugo-classic'
