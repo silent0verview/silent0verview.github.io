@@ -1,0 +1,4 @@
+baseURL = 'https://silent0verview.org'
+languageCode = 'en-us'
+title = 'Silent0verview'
+theme = 'hugo-classic'
